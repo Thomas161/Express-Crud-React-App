@@ -1,0 +1,21 @@
+{
+  "name": "edgy",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Tom <Thomas.Magin@Cognizant.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^16.1.0",
+    "skeleton": "^2.0.4"
+  }
+}

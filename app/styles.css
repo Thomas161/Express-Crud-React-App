@@ -1,0 +1,25 @@
+.strikethrough {
+    text-decoration: line-through;
+    color: slategray
+}
+.red {
+    text-decoration-color: chocolate;
+    font-family: 'Franklin Gothic Medium';
+    color: cornflowerblue;
+    font-size: 1.5em
+}
+body {
+    padding-top: 3rem
+}
+h1 {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
+.purchased-false {
+    height: 40px;
+    background-color: brown
+}
+.grocery-item{
+    margin-top: 1rem;
+    padding-top: 1rem;
+}
